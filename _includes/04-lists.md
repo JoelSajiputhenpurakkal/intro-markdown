@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>THE HOBBIT</li>
+  <li>THE DREAM OF THE RED CHAMBER</li>
+  <li>THE LITTLE PRINCE</li>
+</ul>
+  
