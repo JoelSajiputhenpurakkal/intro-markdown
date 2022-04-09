@@ -1,6 +1,4 @@
-<ul>
-  <li>THE HOBBIT</li>
-  <li>THE DREAM OF THE RED CHAMBER</li>
-  <li>THE LITTLE PRINCE</li>
-</ul>
-  
+* THE HOBBIT
+* THE DREAM OF THE RED CHAMBER
+* THE LITTLE PRINCE
+ 
