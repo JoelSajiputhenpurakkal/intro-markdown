@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* # My awesome attributes are:-
+     1. ***Helpul***
+     2. ***Curies***
+     3. ***Genuine***
+     4. *Good at *c++**
