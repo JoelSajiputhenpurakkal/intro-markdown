@@ -1,1 +1,1 @@
-![Image of Coconut tree](https://images.pexels.com/photos/11495862/pexels-photo-11495862.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
+![Github profile picture](https://avatars.githubusercontent.com/u/86317289?s=96&v=4)
